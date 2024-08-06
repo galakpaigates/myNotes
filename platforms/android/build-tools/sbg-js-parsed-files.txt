@@ -1,0 +1,4 @@
+/home/galakpaigates/Desktop/coding/school/mobile_dev/myNotes/platforms/android/app/src/main/assets/app/vendor.js
+/home/galakpaigates/Desktop/coding/school/mobile_dev/myNotes/platforms/android/app/src/main/assets/app/runtime.js
+/home/galakpaigates/Desktop/coding/school/mobile_dev/myNotes/platforms/android/app/src/main/assets/app/bundle.js
+/home/galakpaigates/Desktop/coding/school/mobile_dev/myNotes/platforms/android/app/src/main/assets/app/tns_modules/inspector_modules.js
