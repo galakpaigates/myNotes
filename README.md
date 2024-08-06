@@ -1,2 +1,3 @@
-# myNotes
-My First Android Application
+# My Notes
+
+### My First Android Application
